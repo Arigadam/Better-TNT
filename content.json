@@ -1,0 +1,9 @@
+{
+  "blocks": [
+    "tnt"
+  ],
+  "items": [],
+  "entities": [
+    "active_tnt"
+  ]
+}

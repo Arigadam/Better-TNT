@@ -1,0 +1,10 @@
+{
+    "id": "tnt",
+    "title": "TNT",
+    "version": "1.0",
+    "creator": "Arigadam",
+    "description": "BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM!",
+    "dependencies": [
+        "explode_lib"
+    ]
+}

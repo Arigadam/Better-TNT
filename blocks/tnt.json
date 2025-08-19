@@ -1,0 +1,11 @@
+{
+	"texture-faces": [
+		"tnt_side",
+		"tnt_side",
+		"tnt_y",
+		"tnt_y",
+		"tnt_side",
+		"tnt_side"
+	],
+	"material": "base:sand"
+}

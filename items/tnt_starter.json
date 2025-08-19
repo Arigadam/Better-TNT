@@ -1,0 +1,6 @@
+{
+    "icon-type": "sprite",
+    "icon": "items:tnt_starter",
+	"stack-size": 1,
+    "uses": 100
+}
